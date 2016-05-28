@@ -1,6 +1,6 @@
 #### Web Economics Group Assignment - CTR Prediction
 
-This is an assigment I completed as part of the Web Economics module (MSc Web Science and Big Data Analytics) I undertook at UCL.
+This is an assigment I completed as part of the Web Economics module (MSc Web Science and Big Data Analytics) which I undertook at UCL.
 
 Repository contents:
 
